@@ -1,0 +1,9 @@
+text,label
+Urgent: Your account will be closed. Click here to verify your password now.,phish
+Security alert: Unusual sign-in attempt detected. Confirm your identity.,phish
+Invoice for services rendered attached. Let me know if corrections needed.,ham
+Team standup moved to 10 AM. See calendar invite.,ham
+We noticed a problem with your payment method. Update card info immediately.,phish
+Lunch at the student union tomorrow?,ham
+Congratulations! You won a gift card. Claim now by entering your details.,phish
+Weekly project update attached with action items.,ham
